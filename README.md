@@ -1,0 +1,2 @@
+# qtdr
+Qt Done Right
