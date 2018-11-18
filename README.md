@@ -1,2 +1,2 @@
-# qtdr
-Qt Done Right
+# qtbp
+Qt Boilerplate
