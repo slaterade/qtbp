@@ -1,7 +1,7 @@
 #ifndef MAIN_WINDOW_H_GUARD
 #define MAIN_WINDOW_H_GUARD
 
-#include <QtWidgets/QMainWindow>
+#include <QMainWindow>
 
 namespace Ui { class MainWindow; }
 
